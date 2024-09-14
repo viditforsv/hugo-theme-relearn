@@ -2,7 +2,7 @@
 
 ## 6.4.0 (2024-09-12)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#640)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/6/#640)
 
 ### Enhancements
 
@@ -24,7 +24,7 @@
 
 ## 6.3.0 (2024-09-03)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#630)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/6/#630)
 
 ### Enhancements
 
@@ -47,7 +47,7 @@
 
 ## 6.2.0 (2024-08-26)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#620)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/6/#620)
 
 ### Enhancements
 
@@ -66,7 +66,7 @@
 
 ## 6.1.1 (2024-08-02)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#610)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/6/#610)
 
 ### Fixes
 
@@ -76,7 +76,7 @@
 
 ## 6.1.0 (2024-08-02)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#610)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/6/#610)
 
 ### Enhancements
 
@@ -110,7 +110,7 @@
 
 ## 6.0.0 (2024-04-27)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#600)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/6/#600)
 
 ### Enhancements
 
@@ -140,7 +140,7 @@
 
 ## 5.27.0 (2024-04-07)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#5270)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#5270)
 
 ### Enhancements
 
@@ -161,7 +161,7 @@
 
 ## 5.26.2 (2024-03-18)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#5260)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#5260)
 
 ### Enhancements
 
@@ -176,7 +176,7 @@
 
 ## 5.26.1 (2024-03-17)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#5260)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#5260)
 
 ### Fixes
 
@@ -188,7 +188,7 @@
 
 ## 5.26.0 (2024-03-16)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#5260)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#5260)
 
 ### Enhancements
 
@@ -211,7 +211,7 @@
 
 ## 5.25.0 (2024-02-29)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#5250)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#5250)
 
 ### Enhancements
 
@@ -226,7 +226,7 @@
 
 ## 5.24.3 (2024-02-28)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#5240)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#5240)
 
 ### Fixes
 
@@ -236,7 +236,7 @@
 
 ## 5.24.2 (2024-02-24)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#5240)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#5240)
 
 ### Enhancements
 
@@ -250,7 +250,7 @@
 
 ## 5.24.1 (2024-02-18)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#5240)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#5240)
 
 ### Enhancements
 
@@ -260,7 +260,7 @@
 
 ## 5.24.0 (2024-02-17)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#5240)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#5240)
 
 ### Enhancements
 
@@ -300,7 +300,7 @@
 
 ## 5.23.2 (2023-11-03)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#5230)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#5230)
 
 ### Enhancements
 
@@ -315,7 +315,7 @@
 
 ## 5.23.1 (2023-10-30)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#5230)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#5230)
 
 ### Enhancements
 
@@ -330,7 +330,7 @@
 
 ## 5.23.0 (2023-10-29)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#5230)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#5230)
 
 ### Enhancements
 
@@ -367,7 +367,7 @@
 
 ## 5.22.1 (2023-10-02)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#5220)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#5220)
 
 ### Enhancements
 
@@ -390,7 +390,7 @@
 
 ## 5.22.0 (2023-09-26)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#5220)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#5220)
 
 ### Enhancements
 
@@ -411,7 +411,7 @@
 
 ## 5.21.0 (2023-09-18)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#5210)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#5210)
 
 ### Enhancements
 
@@ -432,7 +432,7 @@
 
 ## 5.20.0 (2023-08-26)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#5200)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#5200)
 
 ### Enhancements
 
@@ -457,7 +457,7 @@
 
 ## 5.19.0 (2023-08-12)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#5190)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#5190)
 
 ### Enhancements
 
@@ -482,7 +482,7 @@
 
 ## 5.18.0 (2023-07-27)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#5180)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#5180)
 
 ### Enhancements
 
@@ -506,7 +506,7 @@
 
 ## 5.17.1 (2023-06-22)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#5170)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#5170)
 
 ### Enhancements
 
@@ -516,7 +516,7 @@
 
 ## 5.17.0 (2023-06-22)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#5170)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#5170)
 
 ### Enhancements
 
@@ -532,7 +532,7 @@
 
 ## 5.16.2 (2023-06-10)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#5160)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#5160)
 
 ### Enhancements
 
@@ -542,7 +542,7 @@
 
 ## 5.16.1 (2023-06-09)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#5160)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#5160)
 
 ### Enhancements
 
@@ -557,7 +557,7 @@
 
 ## 5.16.0 (2023-06-08)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#5160)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#5160)
 
 ### Enhancements
 
@@ -577,7 +577,7 @@
 
 ## 5.15.2 (2023-05-29)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#5150)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#5150)
 
 ### Enhancements
 
@@ -591,7 +591,7 @@
 
 ## 5.15.1 (2023-05-25)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#5150)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#5150)
 
 ### Fixes
 
@@ -601,7 +601,7 @@
 
 ## 5.15.0 (2023-05-25)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#5150)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#5150)
 
 ### Enhancements
 
@@ -623,7 +623,7 @@
 
 ## 5.14.3 (2023-05-20)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#5140)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#5140)
 
 ### Fixes
 
@@ -633,7 +633,7 @@
 
 ## 5.14.2 (2023-05-20)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#5140)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#5140)
 
 ### Fixes
 
@@ -643,14 +643,14 @@
 
 ## 5.14.1 (2023-05-20)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#5140)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#5140)
 *No changelog for this release.*
 
 ---
 
 ## 5.14.0 (2023-05-19)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#5140)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#5140)
 
 ### Enhancements
 
@@ -669,7 +669,7 @@
 
 ## 5.13.2 (2023-05-17)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#5130)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#5130)
 
 ### Fixes
 
@@ -679,7 +679,7 @@
 
 ## 5.13.1 (2023-05-16)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#5130)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#5130)
 
 ### Fixes
 
@@ -689,7 +689,7 @@
 
 ## 5.13.0 (2023-05-14)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#5130)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#5130)
 
 ### Enhancements
 
@@ -703,7 +703,7 @@
 
 ## 5.12.6 (2023-05-04)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#5120)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#5120)
 
 ### Enhancements
 
@@ -719,7 +719,7 @@
 
 ## 5.12.5 (2023-03-28)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#5120)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#5120)
 
 ### Fixes
 
@@ -729,7 +729,7 @@
 
 ## 5.12.4 (2023-03-24)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#5120)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#5120)
 
 ### Fixes
 
@@ -739,7 +739,7 @@
 
 ## 5.12.3 (2023-03-14)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#5120)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#5120)
 
 ### Fixes
 
@@ -750,7 +750,7 @@
 
 ## 5.12.2 (2023-03-03)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#5120)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#5120)
 
 ### Fixes
 
@@ -760,7 +760,7 @@
 
 ## 5.12.1 (2023-02-26)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#5120)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#5120)
 
 ### Enhancements
 
@@ -774,7 +774,7 @@
 
 ## 5.12.0 (2023-02-24)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#5120)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#5120)
 
 ### Enhancements
 
@@ -801,7 +801,7 @@
 
 ## 5.11.2 (2023-02-07)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#5110)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#5110)
 
 ### Fixes
 
@@ -811,7 +811,7 @@
 
 ## 5.11.1 (2023-02-06)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#5110)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#5110)
 
 ### Fixes
 
@@ -821,7 +821,7 @@
 
 ## 5.11.0 (2023-02-05)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#5110)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#5110)
 
 ### Enhancements
 
@@ -850,7 +850,7 @@
 
 ## 5.10.2 (2023-01-25)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#5100)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#5100)
 
 ### Fixes
 
@@ -860,7 +860,7 @@
 
 ## 5.10.1 (2023-01-25)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#5100)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#5100)
 
 ### Fixes
 
@@ -870,7 +870,7 @@
 
 ## 5.10.0 (2023-01-25)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#5100)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#5100)
 
 ### Enhancements
 
@@ -887,7 +887,7 @@
 
 ## 5.9.4 (2023-01-23)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#590)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#590)
 
 ### Fixes
 
@@ -897,7 +897,7 @@
 
 ## 5.9.3 (2023-01-22)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#590)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#590)
 
 ### Fixes
 
@@ -912,7 +912,7 @@
 
 ## 5.9.2 (2022-12-30)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#590)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#590)
 
 ### Fixes
 
@@ -922,7 +922,7 @@
 
 ## 5.9.1 (2022-12-23)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#590)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#590)
 
 ### Enhancements
 
@@ -932,7 +932,7 @@
 
 ## 5.9.0 (2022-12-23)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#590)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#590)
 
 ### Enhancements
 
@@ -947,7 +947,7 @@
 
 ## 5.8.1 (2022-12-11)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#580)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#580)
 
 ### Fixes
 
@@ -957,7 +957,7 @@
 
 ## 5.8.0 (2022-12-08)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#580)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#580)
 
 ### Enhancements
 
@@ -974,7 +974,7 @@
 
 ## 5.7.0 (2022-11-29)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#570)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#570)
 
 ### Enhancements
 
@@ -994,7 +994,7 @@
 
 ## 5.6.6 (2022-11-23)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#560)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#560)
 
 ### Enhancements
 
@@ -1009,7 +1009,7 @@
 
 ## 5.6.5 (2022-11-19)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#560)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#560)
 
 ### Fixes
 
@@ -1019,7 +1019,7 @@
 
 ## 5.6.4 (2022-11-19)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#560)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#560)
 
 ### Fixes
 
@@ -1029,7 +1029,7 @@
 
 ## 5.6.3 (2022-11-19)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#560)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#560)
 
 ### Fixes
 
@@ -1039,7 +1039,7 @@
 
 ## 5.6.2 (2022-11-19)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#560)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#560)
 
 ### Fixes
 
@@ -1049,7 +1049,7 @@
 
 ## 5.6.1 (2022-11-19)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#560)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#560)
 
 ### Fixes
 
@@ -1059,7 +1059,7 @@
 
 ## 5.6.0 (2022-11-18)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#560)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#560)
 
 ### Enhancements
 
@@ -1087,7 +1087,7 @@
 
 ## 5.5.3 (2022-11-10)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#550)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#550)
 
 ### Fixes
 
@@ -1097,7 +1097,7 @@
 
 ## 5.5.2 (2022-11-08)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#550)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#550)
 
 ### Fixes
 
@@ -1108,7 +1108,7 @@
 
 ## 5.5.1 (2022-11-07)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#550)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#550)
 
 ### Fixes
 
@@ -1118,7 +1118,7 @@
 
 ## 5.5.0 (2022-11-06)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#550)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#550)
 
 ### Enhancements
 
@@ -1133,7 +1133,7 @@
 
 ## 5.4.3 (2022-11-05)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#540)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#540)
 
 ### Enhancements
 
@@ -1147,7 +1147,7 @@
 
 ## 5.4.2 (2022-11-05)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#540)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#540)
 
 ### Maintenance
 
@@ -1157,7 +1157,7 @@
 
 ## 5.4.1 (2022-11-05)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#540)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#540)
 
 ### Fixes
 
@@ -1167,7 +1167,7 @@
 
 ## 5.4.0 (2022-11-01)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#540)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#540)
 
 ### Enhancements
 
@@ -1182,7 +1182,7 @@
 
 ## 5.3.3 (2022-10-09)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#530)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#530)
 
 ### Fixes
 
@@ -1192,7 +1192,7 @@
 
 ## 5.3.2 (2022-10-08)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#530)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#530)
 
 ### Fixes
 
@@ -1202,7 +1202,7 @@
 
 ## 5.3.1 (2022-10-08)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#530)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#530)
 
 ### Enhancements
 
@@ -1213,7 +1213,7 @@
 
 ## 5.3.0 (2022-10-07)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#530)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#530)
 
 ### Enhancements
 
@@ -1233,7 +1233,7 @@
 
 ## 5.2.4 (2022-10-02)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#520)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#520)
 
 ### Fixes
 
@@ -1243,7 +1243,7 @@
 
 ## 5.2.3 (2022-09-12)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#520)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#520)
 
 ### Fixes
 
@@ -1253,7 +1253,7 @@
 
 ## 5.2.2 (2022-08-23)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#520)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#520)
 
 ### Fixes
 
@@ -1263,7 +1263,7 @@
 
 ## 5.2.1 (2022-08-05)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#520)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#520)
 
 ### Enhancements
 
@@ -1281,7 +1281,7 @@
 
 ## 5.2.0 (2022-08-03)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#520)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#520)
 
 ### Enhancements
 
@@ -1296,7 +1296,7 @@
 
 ## 5.1.2 (2022-07-18)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#510)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#510)
 
 ### Fixes
 
@@ -1307,7 +1307,7 @@
 
 ## 5.1.1 (2022-07-15)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#510)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#510)
 
 ### Fixes
 
@@ -1317,7 +1317,7 @@
 
 ## 5.1.0 (2022-07-15)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#510)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#510)
 
 ### Enhancements
 
@@ -1328,7 +1328,7 @@
 
 ## 5.0.3 (2022-07-07)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#500)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#500)
 
 ### Fixes
 
@@ -1338,7 +1338,7 @@
 
 ## 5.0.2 (2022-07-07)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#500)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#500)
 
 ### Fixes
 
@@ -1348,7 +1348,7 @@
 
 ## 5.0.1 (2022-07-07)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#500)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#500)
 
 ### Enhancements
 
@@ -1358,7 +1358,7 @@
 
 ## 5.0.0 (2022-07-05)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#500)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/5/#500)
 
 ### Enhancements
 
@@ -1391,7 +1391,7 @@
 
 ## 4.2.5 (2022-06-23)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#420)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/4/#420)
 
 ### Fixes
 
@@ -1403,7 +1403,7 @@
 
 ## 4.2.4 (2022-06-23)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#420)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/4/#420)
 
 ### Fixes
 
@@ -1413,7 +1413,7 @@
 
 ## 4.2.3 (2022-06-23)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#420)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/4/#420)
 
 ### Fixes
 
@@ -1423,21 +1423,21 @@
 
 ## 4.2.2 (2022-06-23)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#420)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/4/#420)
 *No changelog for this release.*
 
 ---
 
 ## 4.2.1 (2022-06-23)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#420)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/4/#420)
 *No changelog for this release.*
 
 ---
 
 ## 4.2.0 (2022-06-23)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#420)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/4/#420)
 
 ### Enhancements
 
@@ -1454,7 +1454,7 @@
 
 ## 4.1.1 (2022-06-18)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#410)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/4/#410)
 
 ### Fixes
 
@@ -1464,7 +1464,7 @@
 
 ## 4.1.0 (2022-06-12)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#410)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/4/#410)
 
 ### Enhancements
 
@@ -1474,7 +1474,7 @@
 
 ## 4.0.5 (2022-06-12)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#400)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/4/#400)
 
 ### Fixes
 
@@ -1485,7 +1485,7 @@
 
 ## 4.0.4 (2022-06-07)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#400)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/4/#400)
 
 ### Enhancements
 
@@ -1506,7 +1506,7 @@
 
 ## 4.0.3 (2022-06-05)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#400)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/4/#400)
 
 ### Enhancements
 
@@ -1516,7 +1516,7 @@
 
 ## 4.0.2 (2022-06-05)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#400)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/4/#400)
 
 ### Fixes
 
@@ -1526,14 +1526,14 @@
 
 ## 4.0.1 (2022-06-05)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#400)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/4/#400)
 *No changelog for this release.*
 
 ---
 
 ## 4.0.0 (2022-06-05)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#400)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/4/#400)
 
 ### Enhancements
 
@@ -1560,7 +1560,7 @@
 
 ## 3.4.1 (2022-04-03)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#340)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/3/#340)
 
 ### Fixes
 
@@ -1570,7 +1570,7 @@
 
 ## 3.4.0 (2022-04-03)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#340)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/3/#340)
 
 ### Enhancements
 
@@ -1587,7 +1587,7 @@
 
 ## 3.3.0 (2022-03-28)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#330)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/3/#330)
 
 ### Enhancements
 
@@ -1602,7 +1602,7 @@
 
 ## 3.2.1 (2022-03-25)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#320)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/3/#320)
 
 ### Fixes
 
@@ -1614,7 +1614,7 @@
 
 ## 3.2.0 (2022-03-19)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#320)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/3/#320)
 
 ### Enhancements
 
@@ -1629,7 +1629,7 @@
 
 ## 3.1.1 (2022-03-16)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#310)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/3/#310)
 
 ### Enhancements
 
@@ -1639,7 +1639,7 @@
 
 ## 3.1.0 (2022-03-15)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#310)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/3/#310)
 
 ### Enhancements
 
@@ -1656,7 +1656,7 @@
 
 ## 3.0.4 (2022-02-24)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#300)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/3/#300)
 
 ### Enhancements
 
@@ -1675,7 +1675,7 @@
 
 ## 3.0.3 (2022-02-23)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#300)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/3/#300)
 
 ### Enhancements
 
@@ -1691,7 +1691,7 @@
 
 ## 3.0.2 (2022-02-23)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#300)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/3/#300)
 
 ### Enhancements
 
@@ -1701,7 +1701,7 @@
 
 ## 3.0.1 (2022-02-23)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#300)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/3/#300)
 
 ### Enhancements
 
@@ -1715,7 +1715,7 @@
 
 ## 3.0.0 (2022-02-22)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#300)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/3/#300)
 
 ### Enhancements
 
@@ -1741,7 +1741,7 @@
 
 ## 2.9.6 (2022-02-07)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#290)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/2/#290)
 
 ### Fixes
 
@@ -1751,7 +1751,7 @@
 
 ## 2.9.5 (2022-02-07)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#290)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/2/#290)
 
 ### Fixes
 
@@ -1761,7 +1761,7 @@
 
 ## 2.9.4 (2022-02-06)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#290)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/2/#290)
 
 ### Fixes
 
@@ -1771,7 +1771,7 @@
 
 ## 2.9.3 (2022-02-06)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#290)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/2/#290)
 
 ### Fixes
 
@@ -1781,7 +1781,7 @@
 
 ## 2.9.2 (2021-11-26)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#290)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/2/#290)
 
 ### Enhancements
 
@@ -1795,7 +1795,7 @@
 
 ## 2.9.1 (2021-11-22)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#290)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/2/#290)
 
 ### Fixes
 
@@ -1805,7 +1805,7 @@
 
 ## 2.9.0 (2021-11-19)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#290)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/2/#290)
 
 ### Fixes
 
@@ -1820,7 +1820,7 @@
 
 ## 2.8.3 (2021-11-09)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#280)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/2/#280)
 
 ### Fixes
 
@@ -1831,7 +1831,7 @@
 
 ## 2.8.2 (2021-11-08)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#280)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/2/#280)
 
 ### Fixes
 
@@ -1841,7 +1841,7 @@
 
 ## 2.8.1 (2021-11-04)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#280)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/2/#280)
 
 ### Fixes
 
@@ -1851,7 +1851,7 @@
 
 ## 2.8.0 (2021-11-03)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#280)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/2/#280)
 
 ### Enhancements
 
@@ -1872,7 +1872,7 @@
 
 ## 2.7.0 (2021-10-24)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#270)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/2/#270)
 
 ### Enhancements
 
@@ -1882,7 +1882,7 @@
 
 ## 2.6.0 (2021-10-21)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#260)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/2/#260)
 
 ### Fixes
 
@@ -1892,7 +1892,7 @@
 
 ## 2.5.1 (2021-10-12)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#250)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/2/#250)
 
 ### Fixes
 
@@ -1902,7 +1902,7 @@
 
 ## 2.5.0 (2021-10-08)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#250)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/2/#250)
 
 ### Enhancements
 
@@ -1917,7 +1917,7 @@
 
 ## 2.4.1 (2021-10-07)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#240)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/2/#240)
 
 ### Fixes
 
@@ -1927,7 +1927,7 @@
 
 ## 2.4.0 (2021-10-07)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#240)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/2/#240)
 
 ### Enhancements
 
@@ -1955,7 +1955,7 @@
 
 ## 2.3.2 (2021-09-20)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#230)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/2/#230)
 
 ### Fixes
 
@@ -1965,7 +1965,7 @@
 
 ## 2.3.1 (2021-09-20)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#230)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/2/#230)
 
 ### Fixes
 
@@ -1975,7 +1975,7 @@
 
 ## 2.3.0 (2021-09-13)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#230)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/2/#230)
 
 ### Fixes
 
@@ -1990,7 +1990,7 @@
 
 ## 2.2.0 (2021-09-09)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#220)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/2/#220)
 
 ### Enhancements
 
@@ -2008,7 +2008,7 @@
 
 ## 2.1.0 (2021-09-07)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#210)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/2/#210)
 
 ### Enhancements
 
@@ -2028,7 +2028,7 @@
 
 ## 2.0.0 (2021-08-28)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#200)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/2/#200)
 
 ### Enhancements
 
@@ -2063,7 +2063,7 @@
 
 ## 1.2.0 (2021-07-26)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#120)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/1/#120)
 
 ### Enhancements
 
@@ -2092,7 +2092,7 @@
 
 ## 1.1.1 (2021-07-04)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#110)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/1/#110)
 
 ### Maintenance
 
@@ -2102,7 +2102,7 @@
 
 ## 1.1.0 (2021-07-02)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#110)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/1/#110)
 
 ### Enhancements
 
@@ -2124,7 +2124,7 @@
 
 ## 1.0.1 (2021-07-01)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#100)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/1/#100)
 
 ### Maintenance
 
@@ -2134,7 +2134,7 @@
 
 ## 1.0.0 (2021-07-01)
 
-[What's new in this release](https://mcshelby.github.io/hugo-theme-relearn/basics/migration/#100)
+[★ What's new in this release ★](https://mcshelby.github.io/hugo-theme-relearn/basics/releasenotes/1/#100)
 
 ### Maintenance
 
