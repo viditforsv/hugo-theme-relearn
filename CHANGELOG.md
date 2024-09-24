@@ -103,7 +103,7 @@
 - [**task**] theme: remove special cases for LanguageCode [#861](https://github.com/McShelby/hugo-theme-relearn/issues/861)
 - [**task**] link: adjust to Hugo's build-in code [#858](https://github.com/McShelby/hugo-theme-relearn/issues/858)
 - [**task**] image: adjust to Hugo's build-in code [#857](https://github.com/McShelby/hugo-theme-relearn/issues/857)
-- [**task**] opengraph: sync to Hugo’s implementation [#856](https://github.com/McShelby/hugo-theme-relearn/issues/856)
+- [**task**] opengraph: sync to Hugo's implementation [#856](https://github.com/McShelby/hugo-theme-relearn/issues/856)
 - [**task**] i18n: improve file naming [#848](https://github.com/McShelby/hugo-theme-relearn/issues/848)
 
 ---
@@ -1374,7 +1374,7 @@
 
 ### Fixes
 
-- [**bug**] favicon: fix URL if site resides in subfolder [#302](https://github.com/McShelby/hugo-theme-relearn/issues/302)
+- [**bug**] favicon: fix URL if site resides in subdirectory [#302](https://github.com/McShelby/hugo-theme-relearn/issues/302)
 - [**bug**] code: show copy-to-clipboard marker for blocklevel code [#298](https://github.com/McShelby/hugo-theme-relearn/issues/298)
 - [**bug**] menu: make active expander visible on hover [#297](https://github.com/McShelby/hugo-theme-relearn/issues/297)
 - [**bug**] print: disable arrow navigation [#294](https://github.com/McShelby/hugo-theme-relearn/issues/294)
